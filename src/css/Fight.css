@@ -1,0 +1,20 @@
+h2{
+    display:inline;
+}
+.spacer{
+    margin-bottom: 1.5em;
+}
+.fighter:hover{
+    cursor: pointer;
+}
+#leftFighter{
+    float: left;
+}
+#rightFighter{
+    float: right;
+}
+.line{
+    width: 100vh;
+    display: inline-block;
+
+}

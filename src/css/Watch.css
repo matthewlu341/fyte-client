@@ -1,0 +1,60 @@
+h1, h3, h2,h5, h6{
+    color: white;
+}
+#articleContainer, #articleInfo{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    margin: 2em
+}
+#articleContainer{
+    margin-left: 5em;
+}
+#textContent, #textandInfo{
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    padding: 2em;
+}
+.dropdownContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 0;
+}
+#thumbnail{
+    margin-right: 2em;
+}
+
+.desc{
+    margin-top: 2em;
+}
+
+article:hover{
+    text-decoration: underline;
+}
+.articleDivider{
+    color: grey;
+    background-color: grey;
+    height: 1;
+    width: 90vw
+}
+#articleInfo{
+    margin-top:0
+}
+#link{
+    text-decoration-color: white;
+}
+#link:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.spinnerContainer{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
