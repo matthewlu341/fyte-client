@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fyte-client/static/css/main.204a4e01.chunk.css",
+    "main.js": "/fyte-client/static/js/main.167ac09e.chunk.js",
+    "main.js.map": "/fyte-client/static/js/main.167ac09e.chunk.js.map",
+    "runtime-main.js": "/fyte-client/static/js/runtime-main.dc6cb333.js",
+    "runtime-main.js.map": "/fyte-client/static/js/runtime-main.dc6cb333.js.map",
+    "static/css/2.f524894f.chunk.css": "/fyte-client/static/css/2.f524894f.chunk.css",
+    "static/js/2.16e03337.chunk.js": "/fyte-client/static/js/2.16e03337.chunk.js",
+    "static/js/2.16e03337.chunk.js.map": "/fyte-client/static/js/2.16e03337.chunk.js.map",
+    "index.html": "/fyte-client/index.html",
+    "precache-manifest.fc35e0685a34dbb6bc283e41863117c5.js": "/fyte-client/precache-manifest.fc35e0685a34dbb6bc283e41863117c5.js",
+    "service-worker.js": "/fyte-client/service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "/fyte-client/static/css/2.f524894f.chunk.css.map",
+    "static/css/main.204a4e01.chunk.css.map": "/fyte-client/static/css/main.204a4e01.chunk.css.map",
+    "static/js/2.16e03337.chunk.js.LICENSE.txt": "/fyte-client/static/js/2.16e03337.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fyte-client/static/media/bg6.1979077e.jpg",
+    "static/media/ph.jpg": "/fyte-client/static/media/ph.f5e16568.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc6cb333.js",
+    "static/css/2.f524894f.chunk.css",
+    "static/js/2.16e03337.chunk.js",
+    "static/css/main.204a4e01.chunk.css",
+    "static/js/main.167ac09e.chunk.js"
+  ]
+}
